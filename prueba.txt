@@ -1,2 +1,3 @@
 hola primer fichero
 segundo cambio
+cambio en auxiliar
